@@ -23,7 +23,7 @@
 - 📫 Email: **zhangzexiang626@gmail.com**
 - 🌐 Portfolio: https://zexiang-zhang-portfolio.vercel.app/
 - 🎯 Fun fact: **Debugging feels easier than solving a Rubik’s Cube 🧩**
-- 🎮 Hobbies: **Chess ♟, puzzles 🧩, exploring new tech 🚀**
+- 🎮 Hobbies: **🛠 Exploring homelab builds, 🧪 new backend technologies, 🧩 logic & coding puzzles, ☕ espresso brewing, and 📱 trying new gadgets.**
 
 <br clear="both"/>
 
