@@ -119,6 +119,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=626-Legendary&color=blue&style=flat-square)
 
 ⭐ From **626-Legendary**
-
-![Profile Views](https://komarev.com/ghpvc/?username=626-Legendary&color=brightgreen&style=flat-square)
 </div>
