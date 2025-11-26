@@ -14,16 +14,18 @@
 
 # 🙋‍♂️ About Me
 
-<img align="right" width="350" src="/Avatar.jpg"/>
+<img align="right" width="350" src="/Avatar.jpg" 
+     style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+
 
 - 🔭 Currently working on **AI-powered applications**
 - 🌱 Learning **Machine Learning, Cloud, Distributed Systems**
 - 🤝 Seeking collaboration on **AI, Full-stack, and open-source projects**
-- 💬 Ask me about **React, Node.js, FastAPI, SQL, AI models, deployment**
+- 💬 Ask me about **Frontend, Backend, Databases and Machine learning**
 - 📫 Email: **zhangzexiang626@gmail.com**
 - 🌐 Portfolio: https://zexiang-zhang-portfolio.vercel.app/
 - 🎯 Fun fact: **Debugging feels easier than solving a Rubik’s Cube 🧩**
-- 🎮 Hobbies: **🛠 Exploring homelab builds, 🧪 new backend technologies, 🧩 logic & coding puzzles, ☕ espresso brewing, and 📱 trying new gadgets.**
+- 🎮 Hobbies: **🛠 Exploring homelab builds, 🧪 new technologies, 🧩 logic & coding puzzles, ☕ espresso brewing, and 📱 trying new gadgets.**
 
 <br clear="both"/>
 
@@ -43,39 +45,90 @@
 </div>
 
 ---
-
 # 🛠️ Tech Stack
 
-## Programming Languages
+## **Programming Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=fff)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=fff)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0?style=flat&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-F0931C?style=flat&logo=openjdk&logoColor=fff)
+![C](https://img.shields.io/badge/C-4B6C8A?style=flat&logo=c&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-005A9C?style=flat&logo=cplusplus&logoColor=fff)
+![C#](https://img.shields.io/badge/C%23-953CAD?style=flat&logo=csharp&logoColor=fff)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=fff)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-7A3EB1?style=flat&logo=dotnet&logoColor=fff)
 
 ---
 
-## Frameworks & Libraries
+## **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=fff)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=fff)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=fff)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=fff)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=000)
+![Vue.js](https://img.shields.io/badge/Vue.js-48B883?style=flat&logo=vue.js&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-3A3A3A?style=flat&logo=next.js&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-39BDF8?style=flat&logo=tailwindcss&logoColor=fff)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn%2FUI-6E6E6E?style=flat)
+![Redux](https://img.shields.io/badge/Redux-905CED?style=flat&logo=redux&logoColor=fff)
+![Zustand](https://img.shields.io/badge/Zustand-CB9F6A?style=flat)
+![Vite](https://img.shields.io/badge/Vite-BB34FE?style=flat&logo=vite&logoColor=FFE25B)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=1C78C0)
+![Three.js](https://img.shields.io/badge/Three.js-111111?style=flat&logo=three.js&logoColor=fff)
 
 ---
 
-## Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
-![PyCharm](https://img.shields.io/badge/PyCharm-000?style=flat&logo=pycharm&logoColor=2FF980)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000)
+## **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/Express.js-4A4A4A?style=flat&logo=express&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0CA89A?style=flat&logo=fastapi&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-205132?style=flat&logo=django&logoColor=fff)
+![Spring](https://img.shields.io/badge/Spring-74C947?style=flat&logo=spring&logoColor=fff)
+![GraphQL](https://img.shields.io/badge/GraphQL-E535AB?style=flat&logo=graphql&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-3B4758?style=flat&logo=prisma&logoColor=fff)
+![WebSocket](https://img.shields.io/badge/WebSocket-454545?style=flat&logo=socketdotio&logoColor=fff)
 
+---
+
+## **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4279A1?style=flat&logo=mysql&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-D62C20?style=flat&logo=redis&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-0E5E9A?style=flat&logo=sqlite&logoColor=fff)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4A63D8?style=flat&logo=amazon-dynamodb&logoColor=fff)
+
+---
+
+## **AI / Machine Learning**
+![LangChain](https://img.shields.io/badge/LangChain-2F2F2F?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-5E5E5E?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-6844FF?style=flat&logo=openai&logoColor=fff)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=fff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF8E00?style=flat&logo=tensorflow&logoColor=fff)
+
+---
+
+## **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-F9A826?style=flat&logo=amazonaws&logoColor=000)
+![EC2](https://img.shields.io/badge/EC2-F9A01B?style=flat&logo=amazon-ec2&logoColor=fff)
+![S3](https://img.shields.io/badge/S3-609631?style=flat&logo=amazons3&logoColor=fff)
+![Lambda](https://img.shields.io/badge/Lambda-F5A300?style=flat&logo=aws-lambda&logoColor=fff)
+![RDS](https://img.shields.io/badge/RDS-4E7FFF?style=flat&logo=amazonrds&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-316DE6?style=flat&logo=kubernetes&logoColor=fff)
+![Nginx](https://img.shields.io/badge/Nginx-0FA56B?style=flat&logo=nginx&logoColor=fff)
+![Caddy](https://img.shields.io/badge/Caddy-00C7B7?style=flat&logo=caddy&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2B82F6?style=flat&logo=github-actions&logoColor=fff)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-444444?style=flat&logo=githubactions&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-1E1E1E?style=flat&logo=vercel&logoColor=fff)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=fff)
+
+---
+
+## **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FDD835?style=flat&logo=linux&logoColor=000)
+![VS Code](https://img.shields.io/badge/VS%20Code-0277D9?style=flat&logo=visualstudiocode&logoColor=fff)
+![PyCharm](https://img.shields.io/badge/PyCharm-37E69A?style=flat&logo=pycharm&logoColor=000)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=fff)
 ---
 
 # 🎯 Skill Progress Bars
