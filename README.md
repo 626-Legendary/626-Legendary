@@ -14,8 +14,8 @@
 
 # 🙋‍♂️ About Me
 
-<img src="Avatar.jpg" width="200" height="200" style="border-radius:50%; object-fit:cover;" />
-
+<img align="right" width="350" src="/Avatar.jpg"/>
+     
 - 🔭 Currently working on **AI-powered applications**
 - 🌱 Learning **Machine Learning, Cloud, Distributed Systems**
 - 🤝 Seeking collaboration on **AI, Full-stack, and open-source projects**
