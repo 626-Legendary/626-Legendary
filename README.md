@@ -14,8 +14,10 @@
 
 # 🙋‍♂️ About Me
 
-<img align="right" width="350" src="/Avatar.jpg"/>
-     
+<img align="right" width="350" src="/Avatar.jpg" 
+     style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+
+
 - 🔭 Currently working on **AI-powered applications**
 - 🌱 Learning **Machine Learning, Cloud, Distributed Systems**
 - 🤝 Seeking collaboration on **AI, Full-stack, and open-source projects**
@@ -127,6 +129,18 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0277D9?style=flat&logo=visualstudiocode&logoColor=fff)
 ![PyCharm](https://img.shields.io/badge/PyCharm-37E69A?style=flat&logo=pycharm&logoColor=000)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=fff)
+---
+
+## 🎓 Certificates
+
+<div align="center">
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FD27E914945354A13BFD17382D5471D507D714A18BB689FD4F0A7A0B85B73EE4" target="_blank">
+        <img src="https://brm-workforce.oracle.com/pdf/certview/images/MYSQLDBA80OCP.png" width="300" />
+    </a>
+    <br/>
+    <strong>Oracle MySQL 8.0 Database Administrator (OCP)</strong>
+</div>
+
 ---
 
 # 🎯 Skill Progress Bars
