@@ -14,7 +14,7 @@
 
 # 🙋‍♂️ About Me
 
-<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="350" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://github.com/626-Legendary/626-Legendary/blob/main/Avatar.jpg)"/>
 
 - 🔭 Currently working on **AI-powered applications**
 - 🌱 Learning **Machine Learning, Cloud, Distributed Systems**
