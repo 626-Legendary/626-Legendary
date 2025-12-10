@@ -81,6 +81,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0CA89A?style=flat&logo=fastapi&logoColor=fff)
 ![Django](https://img.shields.io/badge/Django-205132?style=flat&logo=django&logoColor=fff)
 ![Spring](https://img.shields.io/badge/Spring-74C947?style=flat&logo=spring&logoColor=fff)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=fff)
+![GORM](https://img.shields.io/badge/GORM-4B6C8A?style=flat&logo=go&logoColor=fff)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E535AB?style=flat&logo=graphql&logoColor=fff)
 ![Prisma](https://img.shields.io/badge/Prisma-3B4758?style=flat&logo=prisma&logoColor=fff)
 ![WebSocket](https://img.shields.io/badge/WebSocket-454545?style=flat&logo=socketdotio&logoColor=fff)
@@ -130,6 +132,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-37E69A?style=flat&logo=pycharm&logoColor=000)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=fff)
 ---
+
 
 ## 🎓 Certificates
 
