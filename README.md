@@ -14,10 +14,6 @@
 
 # 🙋‍♂️ About Me
 
-<img align="right" width="350" src="/Avatar.jpg" 
-     style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
-
-
 - 🔭 Currently working on **AI-powered applications**
 - 🌱 Learning **Machine Learning, Cloud, Distributed Systems**
 - 🤝 Seeking collaboration on **AI, Full-stack, and open-source projects**
@@ -192,5 +188,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=626-Legendary&color=blue&style=flat-square)
 
-⭐ From **626-Legendary**
+**626-Legendary**
 </div>
