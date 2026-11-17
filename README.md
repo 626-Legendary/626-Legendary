@@ -188,5 +188,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=626-Legendary&color=blue&style=flat-square)
 
+![Language Stats](stats/leaderboard_by_lines.png)
+
 **626-Legendary**
 </div>
