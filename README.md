@@ -39,7 +39,9 @@
 
 </div>
 
-![Language Stats](stats/pie_by_weighted.png)
+<div align="center">
+  <img src="stats/pie_by_weighted.png" width="75%" />
+</div>
 
 # 🛠️ Tech Stack
 
