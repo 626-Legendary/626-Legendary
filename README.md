@@ -1,12 +1,11 @@
 <div align="center">
 
 # 👋 Hi there! I'm **Zexiang Zhang**
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Lifelong+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078FF&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Cloud+%26+Distributed+Systems;AI+%26+Machine+Learning;Open+Source+Enthusiast" />
 
 <br/>
 
-### 🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🌟 Open Source Contributor  
-*Building modern web applications & exploring intelligent systems.*
+☕ Powered by espresso, driven by curiosity, debugging the rest.
 
 </div>
 
@@ -19,7 +18,7 @@
 - 🤝 Seeking collaboration on **AI, Full-stack, and open-source projects**
 - 💬 Ask me about **Frontend, Backend, Databases and Machine learning**
 - 📫 Email: **zhangzexiang626@gmail.com**
-- 🌐 Portfolio: https://zexiang-zhang-portfolio.vercel.app/
+- 🌐 Portfolio: [portfolio.zexiangzhang.com](https://portfolio.zexiangzhang.com/)
 - 🎯 Fun fact: **Debugging feels easier than solving a Rubik’s Cube 🧩**
 - 🎮 Hobbies: **🛠 Exploring homelab builds, 🧪 new technologies, 🧩 logic & coding puzzles, ☕ espresso brewing, and 📱 trying new gadgets.**
 
@@ -39,6 +38,8 @@
 | 🐞 Bugs Fixed | ![](https://img.shields.io/badge/1000%2B-Bugs-red) |
 
 </div>
+
+![Language Stats](stats/pie_by_weighted.png)
 
 # 🛠️ Tech Stack
 
@@ -187,8 +188,6 @@
 ### 💫 *"Code is poetry written in logic."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=626-Legendary&color=blue&style=flat-square)
-
-![Language Stats](stats/pie_by_weighted.png)
 
 **626-Legendary**
 </div>
