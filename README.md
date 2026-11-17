@@ -175,8 +175,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/626-Legendary)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:zhangzexiang626@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/zexiang-zhang-9842b6160/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=fff)](https://zexiang-zhang-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/zexiangzhang)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=fff)](https://portfolio.zexiangzhang.com)
 
 </div>
 
@@ -188,7 +188,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=626-Legendary&color=blue&style=flat-square)
 
-![Language Stats](stats/leaderboard_by_lines.png)
+![Language Stats](stats/pie_by_weighted.png)
 
 **626-Legendary**
 </div>
